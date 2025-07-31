@@ -6,3 +6,13 @@
 <a href="https://www.twitch.tv/im_jhoow" rel="nofollow"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch Badge" data-canonical-src="" style="max-width: 100%;"></a></p>
 </div>
 <hr></hr>
+<h3 class="heading-element" dir="auto">Skills</h3>
+<p align="left" dir="auto">
+  <!-- Python -->
+  <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"></a><a href="https://pytorch.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch"></a><a href="https://scikit-learn.org/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="36" alt="Scikit-Learn"></a><a href="https://airflow.apache.org/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="70" height="36" alt="Apache Airflow"></a><a href="https://flask.palletsprojects.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="70" height="36" alt="Flask"></a>
+</p>
+<h3 class="heading-element" dir="auto">📚 Published Articles</h3>
+
+- <a href="https://medium.com/@jhonatasassumpcao/previs%C3%A3o-de-churn-com-machine-learning-f92e4bac3c86" target="_blank">Previsão de Churn com Machine Learning</a>
+- <a href="https://medium.com/@jhonatasassumpcao/previs%C3%A3o-da-idade-de-abalones-com-machine-learning-642f0f6c2656" target="_blank">Previsão da Idade de Abalones com Machine Learning</a>
+- <a href="https://medium.com/@jhonatasassumpcao/an%C3%A1lise-de-sentimentos-em-reviews-de-filmes-do-imdb-com-machine-learning-d05defc50c6a" target="_blank">Análise de Sentimentos em Reviews de Filmes do IMDB com Machine Learning</a>
