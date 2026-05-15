@@ -16,7 +16,7 @@
 ---
 
 <p align="left">
-Sou <strong>Cientista de Dados </strong> especializado em modelagem preditiva, NLP e deploy. Construo projetos end-to-end, da análise exploratória até modelos em produção.
+I'm a <strong>Data Scientist</strong> specialized in predictive modeling, NLP and model deployment. I build end-to-end projects, from exploratory analysis to models in production.
 </p>
 
 <br>
@@ -33,23 +33,23 @@ Sou <strong>Cientista de Dados </strong> especializado em modelagem preditiva, N
 
 <br>
 
-### 🚀 Projetos
+### 🚀 Projects
 
-* [Previsão de Churn com Machine Learning](https://github.com/Jhonsilvaa/previsao-de-churn-com-machine-learning)
-* [Previsão da Idade de Abalones com Machine Learning](https://github.com/Jhonsilvaa/previsao-da-idade-de-abalones-com-machine-learning)
-* [Análise de Sentimentos em Reviews de Filmes do IMDb com Machine Learning](https://github.com/Jhonsilvaa/analise-de-sentimentos-em-reviews-de-filmes-do-imdb-com-machine-learning)
-* [Segmentação de Vinhos com Machine Learning](https://github.com/Jhonsilvaa/segmentacao-de-vinhos-com-machine-learning)
-
-<br>
-
-### 📚 Artigos
-
-* [Previsão de Churn com Machine Learning](https://medium.com/@jhonatasassumpcao/previs%C3%A3o-de-churn-com-machine-learning-f92e4bac3c86)
-* [Previsão da Idade de Abalones com Machine Learning](https://medium.com/@jhonatasassumpcao/previs%C3%A3o-da-idade-de-abalones-com-machine-learning-642f0f6c2656)
-* [Análise de Sentimentos em Reviews de Filmes do IMDb](https://medium.com/@jhonatasassumpcao/an%C3%A1lise-de-sentimentos-em-reviews-de-filmes-do-imdb-com-machine-learning-d05defc50c6a)
+* [Churn Prediction with Machine Learning](https://github.com/Jhonsilvaa/previsao-de-churn-com-machine-learning)
+* [Abalone Age Prediction with Machine Learning](https://github.com/Jhonsilvaa/previsao-da-idade-de-abalones-com-machine-learning)
+* [IMDb Movie Reviews Sentiment Analysis with Machine Learning](https://github.com/Jhonsilvaa/analise-de-sentimentos-em-reviews-de-filmes-do-imdb-com-machine-learning)
+* [Wine Segmentation with Machine Learning](https://github.com/Jhonsilvaa/segmentacao-de-vinhos-com-machine-learning)
 
 <br>
 
-### 🏆 Publicação Acadêmica
+### 📚 Articles
 
-* [Classificação de Saúde Fetal com AutoML](https://www.even3.com.br/anais/congresso-academico-fmu-fiamfaam/638122-classificacao-de-saude-fetal-com-auto-machine-larning/)
+* [Churn Prediction with Machine Learning](https://medium.com/@jhonatasassumpcao/previs%C3%A3o-de-churn-com-machine-learning-f92e4bac3c86)
+* [Abalone Age Prediction with Machine Learning](https://medium.com/@jhonatasassumpcao/previs%C3%A3o-da-idade-de-abalones-com-machine-learning-642f0f6c2656)
+* [IMDb Movie Reviews Sentiment Analysis](https://medium.com/@jhonatasassumpcao/an%C3%A1lise-de-sentimentos-em-reviews-de-filmes-do-imdb-com-machine-learning-d05defc50c6a)
+
+<br>
+
+### 🏆 Academic Publication
+
+* [Fetal Health Classification with AutoML](https://www.even3.com.br/anais/congresso-academico-fmu-fiamfaam/638122-classificacao-de-saude-fetal-com-auto-machine-larning/)
