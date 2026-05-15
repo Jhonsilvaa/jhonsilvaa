@@ -35,10 +35,10 @@ Sou <strong>Cientista de Dados </strong> especializado em modelagem preditiva, N
 
 ### 🚀 Projetos
 
-* [Previsão de Churn](https://github.com/Jhonsilvaa/previsao-de-churn-com-machine-learning)
-* [Previsão da Idade de Abalones](https://github.com/Jhonsilvaa/previsao-da-idade-de-abalones-com-machine-learning)
-* [Análise de Sentimentos IMDb](https://github.com/Jhonsilvaa/analise-de-sentimentos-em-reviews-de-filmes-do-imdb-com-machine-learning)
-* [Segmentação de Vinhos](https://github.com/Jhonsilvaa/segmentacao-de-vinhos-com-machine-learning)
+* [Previsão de Churn com Machine Learning](https://github.com/Jhonsilvaa/previsao-de-churn-com-machine-learning)
+* [Previsão da Idade de Abalones com Machine Learning](https://github.com/Jhonsilvaa/previsao-da-idade-de-abalones-com-machine-learning)
+* [Análise de Sentimentos em Reviews de Filmes do IMDb com Machine Learning](https://github.com/Jhonsilvaa/analise-de-sentimentos-em-reviews-de-filmes-do-imdb-com-machine-learning)
+* [Segmentação de Vinhos com Machine Learning](https://github.com/Jhonsilvaa/segmentacao-de-vinhos-com-machine-learning)
 
 <br>
 
@@ -52,4 +52,4 @@ Sou <strong>Cientista de Dados </strong> especializado em modelagem preditiva, N
 
 ### 🏆 Publicação Acadêmica
 
-* [Classificação de Saúde Fetal com AutoML](https://www.even3.com.br/anais/congresso-academico-fmu-fiamfaam/638122-classificacao-de-saude-fetal-com-auto-machine-larning/) — Anais do Congresso Acadêmico FMU/FIAMFAAM, maio de 2023
+* [Classificação de Saúde Fetal com AutoML](https://www.even3.com.br/anais/congresso-academico-fmu-fiamfaam/638122-classificacao-de-saude-fetal-com-auto-machine-larning/)
