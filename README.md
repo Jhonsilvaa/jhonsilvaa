@@ -35,10 +35,10 @@ Sou <strong>Cientista de Dados </strong> especializado em modelagem preditiva, N
 
 ### 🚀 Projetos
 
-* [Previsão de Churn](https://github.com/Jhonsilvaa/previsao-de-churn-com-machine-learning) — Prevê clientes com maior risco de churn para ações de retenção | [App](https://churn-prediction-app-kw9w.onrender.com)
-* [Previsão da Idade de Abalones](https://github.com/Jhonsilvaa/previsao-da-idade-de-abalones-com-machine-learning) — Prevê a idade de abalones com base em características físicas, eliminando o processo manual de contagem de anéis | [API](https://abalone-age-prediction-0fyd.onrender.com/apidoc/swagger)
-* [Análise de Sentimentos IMDb](https://github.com/Jhonsilvaa/analise-de-sentimentos-em-reviews-de-filmes-do-imdb-com-machine-learning) — Classifica o sentimento de reviews de filmes como positivo ou negativo
-* [Segmentação de Vinhos](https://github.com/Jhonsilvaa/segmentacao-de-vinhos-com-machine-learning) — Segmenta vinhos exclusivamente com base em suas propriedades químicas
+* [Previsão de Churn](https://github.com/Jhonsilvaa/previsao-de-churn-com-machine-learning)
+* [Previsão da Idade de Abalones](https://github.com/Jhonsilvaa/previsao-da-idade-de-abalones-com-machine-learning)
+* [Análise de Sentimentos IMDb](https://github.com/Jhonsilvaa/analise-de-sentimentos-em-reviews-de-filmes-do-imdb-com-machine-learning)
+* [Segmentação de Vinhos](https://github.com/Jhonsilvaa/segmentacao-de-vinhos-com-machine-learning)
 
 <br>
 
